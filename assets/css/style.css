@@ -1,0 +1,42 @@
+body{
+
+	background-image: url("../images/marvel.jpg");
+
+}
+
+p {
+
+	font-size: 20px;
+	font-family: 'Anton', sans-serif;
+	margin-left:10px;
+}
+
+/*#word {
+
+	color:lightgrey;
+}*/
+
+.rect {
+
+	background-color: lightgrey;
+	width:25%;
+	padding-bottom: 70px;
+	margin-left:55%;
+	border-style: solid;
+	border-color: #DC143C; 
+}
+
+h1 {
+
+	color:white;
+	font-size: 50px;
+	margin-left:48%;
+	background-color:red;
+	margin-right:150px;
+	text-align:center;
+    font-family: 'Press Start 2P', cursive;
+    padding:15px 0;
+    margin-bottom:0;
+    border-style:solid;
+
+}
